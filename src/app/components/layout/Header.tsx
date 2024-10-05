@@ -3,7 +3,6 @@
 import React from 'react';
 
 import Hero from '@/app/components/widgets/Hero'
-import './globals.css'
 import Wrapper from "@/app/components/shared/Wrapper"
 import { Children } from 'react'
 import CoreTrack from '@/app/components/widgets/CoreTrack'
